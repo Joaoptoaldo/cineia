@@ -16,6 +16,7 @@ ENV/
 # Environment files
 env
 .env
+feedback.csv
 
 
 # Streamlit
