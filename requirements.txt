@@ -1,0 +1,3 @@
+streamlit
+python-dotenv
+# google-generative-ai (opcional, mas recomendado para facilitar a integração com os modelos do Google)

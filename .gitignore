@@ -1,0 +1,32 @@
+env/
+desktop.ini
+google-credentials.json
+dist/
+
+# Essentials: caches, venv, envs, IDEs, streamlit secrets
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# Environment files
+env
+.env
+.env.*
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/
+
+# IDEs / Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
